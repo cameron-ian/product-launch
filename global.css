@@ -1,0 +1,21 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+* {/* CSS HEX */
+    --dark-electric-blue: #3E687Eff;
+    --khaki-web: #BFA48Aff;
+    --glaucous: #5A7FABff;
+    --dutch-white: #E4CFB3ff;
+    --champagne: #F2E5CEff;
+    }
+body {
+    background-color: var(--#5A7FABff);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#splash image img {
+    width: 25vw;
+}
+
+#info {
+    color; var(--champagne);
+}
